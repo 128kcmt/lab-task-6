@@ -19,6 +19,6 @@ int main() {
 
     // Output the values
     cout << "Dynamically allocated integer: " << *dynamicInt << endl;
-    cout << "Dynamically allocated string: " << *dynamicString << endl;
+    cout << "Dynamically allocated string: " << dynamicString << endl;
     return 0;
 }
